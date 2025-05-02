@@ -7,16 +7,16 @@ import sidefolioMoonbeam2 from "public/images/sidefolio-moonbeam-2.png";
 import sidefolioTailwindMasterKit from "public/images/sidefolio-tailwindmasterkit.png";
 import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterkit-2.png";
 
-import Falcon from "public/images/falconpay.png"
-import Falcon2 from "public/images/fp-2.png"
-import Tmart from "public/images/timart.png"
-import Tmart2 from "public/images/tima.png"
-import Vamistyles from "public/images/vamistyles.png"
-import Vamistyles2 from "public/images/vamis.png"
-import Cardizaa from "public/images/cardizaa.png"
-import Cardizaa2 from "public/images/cardi.png"
-import Repairfind from "public/images/repairfind.png"
-import Repairfind2 from "public/images/rf-2.png"
+import Falcon from "../../public/images/falconpay.png"
+import Falcon2 from "../../public/images/fp-2.png"
+import Tmart from "../../public/images/timart.png"
+import Tmart2 from "../../public/images/tima.png"
+import Vamistyles from "../../public/images/vamistyles.png"
+import Vamistyles2 from "../../public/images/vamis.png"
+import Cardizaa from "../../public/images/cardizaa.png"
+import Cardizaa2 from "../../public/images/cardi.png"
+import Repairfind from "../../public/images/repairfind.png"
+import Repairfind2 from "../../public/images/rf-2.png"
 
 export const products = [
   {
