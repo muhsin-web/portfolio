@@ -13,13 +13,10 @@ export default function Home() {
       <Heading className="font-black">Hello there! I&apos;m Muhsin</Heading>
       <Paragraph className="max-w-xl mt-4">
         I&apos;m a frontend developer that loves{" "}
-        <Highlight>building products</Highlight> and web apps that can impact
-        millions of lives
+        I&apos;m a <Highlight>Frontend Software Engineer</Highlight> passionate about building scalable, high-performance web and mobile apps that solve real-world problems and impact millions of users. With 4+ years of experience, 
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a software engineer with{" "}
-        <Highlight>4+ years of experience</Highlight> building scalable web and mobile applications
-        that are performance optimized and good looking.
+        I&apos;ve led the development of fintech and e-commerce platforms, designed intuitive user interfaces, and contributed to open-source projects. My focus is on crafting fast, accessible, and visually appealing applications that deliver seamless user experiences.
       </Paragraph>
       <Heading
         as="h2"

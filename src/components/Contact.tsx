@@ -20,9 +20,14 @@ export const Contact = () => {
 
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    // Write your submit logic here
-    console.log(formData);
+
+    const subject = encodeURIComponent("New Contact Request");
+    const body = encodeURIComponent(
+      `Good day Muhsin:\n\n${formData.message.value}`
+    );
+    window.location.href = `mailto:muhsinabdulrasheed@gmail.com?subject=${subject}&body=${body}`;
   };
+
   return (
     <form className="form" onSubmit={handleSubmit}>
       <div className="flex flex-col md:flex-row justify-between gap-5">
